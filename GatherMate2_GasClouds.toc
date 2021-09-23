@@ -2,6 +2,7 @@
 ## Title: GatherMate2 |cd0ff7d0a<Gas Clouds>|r
 ## Notes: GatherMate2 Gas Clouds Data for Burning Crusade Classic
 ## Author: MiCHaelSP
+## X-Curse-Project-ID: 530769
 ## Version: @project-version@
 ## Dependencies: GatherMate2
 
