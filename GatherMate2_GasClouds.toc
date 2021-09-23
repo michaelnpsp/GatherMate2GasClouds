@@ -1,0 +1,9 @@
+## Interface: 20502
+## Title: GatherMate2 |cd0ff7d0a<Gas Clouds>|r
+## Notes: GatherMate2 Gas Clouds Data for Burning Crusade Classic
+## Author: MichaelSP
+## Version: @project-version@
+## Dependencies: GatherMate2
+
+GasData.lua
+GatherMate2_GasClouds.lua
