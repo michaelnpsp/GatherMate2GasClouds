@@ -3,6 +3,7 @@
 ## Notes: GatherMate2 Gas Clouds Data for Burning Crusade Classic
 ## Author: MiCHaelSP
 ## X-Curse-Project-ID: 530769
+## X-Wago-ID: 7x61nEK1
 ## Version: @project-version@
 ## Dependencies: GatherMate2
 
