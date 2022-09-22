@@ -18,7 +18,7 @@ end
 local function FixGasNodesForZone(zone, nodes)
 	local count = 0
 	local validNodeID = GetGasNodeTypeForZone(zone)
-	if validNodeID then
+	if validNodeID and validNodeID<305 then -- fix only burning crusade gas nodes
 		nodes = nodes or GatherMate2GasDB[zone]
 		if nodes then
 			for coord, nodeID in pairs(nodes) do
@@ -65,7 +65,7 @@ Config:RegisterImportModule('GatherMate2_GasData', {
 		desc = {
 			order = 1,
 			type = "description",
-			name = "Importing Gas Clouds Data for Burning Crusade <by MiCHaEL>",
+			name = "Importing Gas Clouds Data for WoW Classic <by MiCHaEL>",
 		},
 		loadType = {
 			order = 2,
