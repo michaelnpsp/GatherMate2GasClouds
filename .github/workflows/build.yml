@@ -14,10 +14,10 @@ jobs:
         with:
           fetch-depth: 200
 
-      - name: Create BCC Package
+      - name: Create Wrath Package
         uses: BigWigsMods/packager@master
         with:
-          args: -g bcc -m .pkgmeta-classic
+          args: -g wrath -m .pkgmeta-classic
         env:
           GITHUB_OAUTH: ${{ secrets.GITHUB_TOKEN }}
           CF_API_KEY: ${{ secrets.CF_API_KEY }}

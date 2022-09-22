@@ -1,4 +1,6 @@
-## Interface: 20504
+## Interface: 30400
+## Interface-BCC: 20504
+## Interface-Wrath: 30400
 ## Title: GatherMate2 |cd0ff7d0a<Gas Clouds>|r
 ## Notes: GatherMate2 Gas Clouds Data for Burning Crusade Classic
 ## Author: MiCHaelSP
