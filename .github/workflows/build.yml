@@ -14,10 +14,10 @@ jobs:
         with:
           fetch-depth: 200
 
-      - name: Create Wrath Package
+      - name: Create Cata Package
         uses: BigWigsMods/packager@master
         with:
-          args: -g wrath -m .pkgmeta-classic
+          args: -g cata -m .pkgmeta-classic
         env:
           GITHUB_OAUTH: ${{ secrets.GITHUB_TOKEN }}
           CF_API_KEY: ${{ secrets.CF_API_KEY }}
