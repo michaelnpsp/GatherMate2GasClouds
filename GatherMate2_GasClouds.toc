@@ -2,7 +2,7 @@
 ## Interface-Retail: 110005
 ## Interface-BCC: 20504
 ## Interface-Wrath: 30403
-## Interface-Cata: 40400
+## Interface-Cata: 40401
 ## Title: GatherMate2 |cd0ff7d0a<Gas Clouds>|r
 ## Notes: GatherMate2 Gas Clouds Data for TBC&Wotlk
 ## Author: MiCHaelSP
